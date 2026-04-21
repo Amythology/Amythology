@@ -19,11 +19,6 @@
 Just a curious university stduent trying new stuff!!
 
 
-## Contributions :
-
-![snake gif](https://github.com/Amythology/Amythology/blob/output/github-snake-dark.svg)
-
-
 ## Tech Stack
 
 ### Languages
