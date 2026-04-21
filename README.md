@@ -6,16 +6,22 @@
   🚀 Hackathons | CTF | Developer Communities
 </p>
 
----
 
-## 🧠 About Me
-Motivated 2nd-year Computer Science student with strong foundations in programming, cloud computing, and cybersecurity. Passionate about Artificial Intelligence & Machine Learning, with hands-on experience from hackathons and developer community events.
+## Contributions!?
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+![snake gif](https://github.com/Amythology/Amythology/blob/output/github-snake-dark.svg)
+</div>
 
-### 💻 Languages
+
+## About Me
+Just a curious university stduent trying new stuff!!
+
+
+## Tech Stack
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
@@ -25,13 +31,13 @@ Motivated 2nd-year Computer Science student with strong foundations in programmi
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql">
 </p>
 
-### 🌐 Web
+### Web
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
 </p>
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git">
@@ -70,30 +76,7 @@ Motivated 2nd-year Computer Science student with strong foundations in programmi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amythology&layout=compact&theme=tokyonight">
 </p>
 
----
 
-## 🏆 Achievements
-- 🧑‍💻 Hackathon participant  
-- 🕵️ CTF competitions (GDG)  
-- 🤝 Active in developer communities  
-
----
-
-## 📜 Certifications
-- NPTEL – Cloud Computing  
-- NPTEL – Python  
-- NPTEL – Ethical Hacking  
-- NPTEL – C++  
-- NPTEL – German  
-
----
-
-## 👨‍💼 Leadership
-- Class Representative (CR)  
-- Tech Team Member — GDG UVCE  
-- College Development Committee  
-
----
 
 ## 🌐 Connect With Me
 <p>
@@ -104,4 +87,4 @@ Motivated 2nd-year Computer Science student with strong foundations in programmi
 
 ---
 
-⭐ Always learning, building, and exploring new technologies
+⭐ Always curious, building, and exploring new technologies
